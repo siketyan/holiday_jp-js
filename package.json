@@ -3,6 +3,7 @@
   "version": "2.4.0",
   "description": "Japanese holidays",
   "main": "lib/holiday_jp.js",
+  "module": "lib/holiday_jp.mjs",
   "types": "lib/holiday_jp.d.ts",
   "files": ["lib"],
   "scripts": {
